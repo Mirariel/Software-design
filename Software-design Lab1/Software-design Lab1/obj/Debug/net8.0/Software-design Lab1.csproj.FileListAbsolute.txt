@@ -1,0 +1,18 @@
+C:\Users\koshk\source\repos\Software-design Lab1\Software-design Lab1\bin\Debug\net8.0\Software-design Lab1.exe
+C:\Users\koshk\source\repos\Software-design Lab1\Software-design Lab1\bin\Debug\net8.0\Software-design Lab1.deps.json
+C:\Users\koshk\source\repos\Software-design Lab1\Software-design Lab1\bin\Debug\net8.0\Software-design Lab1.runtimeconfig.json
+C:\Users\koshk\source\repos\Software-design Lab1\Software-design Lab1\bin\Debug\net8.0\Software-design Lab1.dll
+C:\Users\koshk\source\repos\Software-design Lab1\Software-design Lab1\bin\Debug\net8.0\Software-design Lab1.pdb
+C:\Users\koshk\source\repos\Software-design Lab1\Software-design Lab1\bin\Debug\net8.0\ClassLibrary.dll
+C:\Users\koshk\source\repos\Software-design Lab1\Software-design Lab1\bin\Debug\net8.0\ClassLibrary.pdb
+C:\Users\koshk\source\repos\Software-design Lab1\Software-design Lab1\obj\Debug\net8.0\Software-design Lab1.csproj.AssemblyReference.cache
+C:\Users\koshk\source\repos\Software-design Lab1\Software-design Lab1\obj\Debug\net8.0\Software-design Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koshk\source\repos\Software-design Lab1\Software-design Lab1\obj\Debug\net8.0\Software-design Lab1.AssemblyInfoInputs.cache
+C:\Users\koshk\source\repos\Software-design Lab1\Software-design Lab1\obj\Debug\net8.0\Software-design Lab1.AssemblyInfo.cs
+C:\Users\koshk\source\repos\Software-design Lab1\Software-design Lab1\obj\Debug\net8.0\Software-design Lab1.csproj.CoreCompileInputs.cache
+C:\Users\koshk\source\repos\Software-design Lab1\Software-design Lab1\obj\Debug\net8.0\Software.BA7629FD.Up2Date
+C:\Users\koshk\source\repos\Software-design Lab1\Software-design Lab1\obj\Debug\net8.0\Software-design Lab1.dll
+C:\Users\koshk\source\repos\Software-design Lab1\Software-design Lab1\obj\Debug\net8.0\refint\Software-design Lab1.dll
+C:\Users\koshk\source\repos\Software-design Lab1\Software-design Lab1\obj\Debug\net8.0\Software-design Lab1.pdb
+C:\Users\koshk\source\repos\Software-design Lab1\Software-design Lab1\obj\Debug\net8.0\Software-design Lab1.genruntimeconfig.cache
+C:\Users\koshk\source\repos\Software-design Lab1\Software-design Lab1\obj\Debug\net8.0\ref\Software-design Lab1.dll
