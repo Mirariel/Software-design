@@ -4,13 +4,13 @@ This project follows multiple programming principles to ensure maintainability, 
 
 ### 1. DRY (Don't Repeat Yourself)
 
-- The `Money` class centralizes currency-related logic, avoiding redundant currency calculations across different classes ([Money.cs](#L4-L14)).
-- The `Reporting` class provides a reusable method `InventoryReport()` to display inventory status ([Reporting.cs](#L42-L46)).
+- The `Money` class centralizes currency-related logic, avoiding redundant currency calculations across different classes ([Money.cs](https://github.com/Mirariel/Software-design/blob/main/Software-design%20Lab1/ClassLibrary/Money.cs)).
+- The `Reporting` class provides a reusable method `InventoryReport()` to display inventory status ([Reporting.cs](https://github.com/Mirariel/Software-design/blob/main/Software-design%20Lab1/ClassLibrary/Reporting.cs)).
 
 ### 2. KISS (Keep It Simple, Stupid)
 
 - The class structures are straightforward, avoiding unnecessary complexity.
-- The `Warehouse` class provides simple methods for adding and displaying products without over-engineering ([Warehouse.cs](#L27-L36)).
+- The `Warehouse` class provides simple methods for adding and displaying products without over-engineering ([Warehouse.cs](https://github.com/Mirariel/Software-design/blob/main/Software-design%20Lab1/ClassLibrary/Warehouse.cs)).
 
 ### 3. SOLID Principles
 
@@ -54,7 +54,7 @@ This project follows multiple programming principles to ensure maintainability, 
 
 ### 7. Fail Fast
 
-- The `DecreasePrice` method ensures no negative price calculations by handling cents properly ([Product.cs]()).
+- The `DecreasePrice` method ensures no negative price calculations by handling cents properly ([Product.cs](https://github.com/Mirariel/Software-design/blob/main/Software-design%20Lab1/ClassLibrary/Product.cs)).
 
 ## How to Run
 
@@ -67,9 +67,9 @@ This project follows multiple programming principles to ensure maintainability, 
 
 ## File References
 
-- [`Money.cs`]()
-- [`Product.cs`]()
-- [`Warehouse.cs`]()
-- [`Reporting.cs`]()
-- [`Program.cs`]()
+- [`Money.cs`](https://github.com/Mirariel/Software-design/blob/main/Software-design%20Lab1/ClassLibrary/Money.cs)
+- [`Product.cs`](https://github.com/Mirariel/Software-design/blob/main/Software-design%20Lab1/ClassLibrary/Product.cs)
+- [`Warehouse.cs`](https://github.com/Mirariel/Software-design/blob/main/Software-design%20Lab1/ClassLibrary/Warehouse.cs)
+- [`Reporting.cs`](https://github.com/Mirariel/Software-design/blob/main/Software-design%20Lab1/ClassLibrary/Reporting.cs)
+- [`Program.cs`](https://github.com/Mirariel/Software-design/blob/main/Software-design%20Lab1/Software-design%20Lab1/Program.cs)
 
