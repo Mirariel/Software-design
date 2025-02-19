@@ -56,15 +56,6 @@ This project follows multiple programming principles to ensure maintainability, 
 
 - The `DecreasePrice` method ensures no negative price calculations by handling cents properly ([Product.cs](https://github.com/Mirariel/Software-design/blob/main/Software-design%20Lab1/ClassLibrary/Product.cs)).
 
-## How to Run
-
-1. Compile the C# project.
-2. Run the `Program` class, which demonstrates:
-   - Product creation
-   - Adding products to the warehouse
-   - Generating inventory reports
-   - Decreasing product prices dynamically.
-
 ## File References
 
 - [`Money.cs`](https://github.com/Mirariel/Software-design/blob/main/Software-design%20Lab1/ClassLibrary/Money.cs)
