@@ -4,7 +4,7 @@ This project follows multiple programming principles to ensure maintainability, 
 
 ### 1. DRY (Don't Repeat Yourself)
 
-- The `Money` class centralizes currency-related logic, avoiding redundant currency calculations across different classes ([Money.cs]https://github.com/Mirariel/Software-design/blob/master/Lab1/Software-designLab1/ClassLibrary/Money.cs)).
+- The `Money` class centralizes currency-related logic, avoiding redundant currency calculations across different classes ([`Money.cs`](https://github.com/Mirariel/Software-design/blob/master/Lab1/Software-designLab1/ClassLibrary/Money.cs)).
 - The `Reporting` class provides a reusable method `InventoryReport()` to display inventory status ([`Reporting.cs`](https://github.com/Mirariel/Software-design/blob/master/Lab1/Software-designLab1/ClassLibrary/Reporting.cs)).
 
 ### 2. KISS (Keep It Simple, Stupid)
